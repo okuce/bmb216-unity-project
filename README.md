@@ -69,7 +69,8 @@ Unity 3 Boyutlu Tic Tac Toe Oyunu Ödevi
  Dışardan eklenen nesneler büyük boyutlarda olabilir. zip dosyasının 5 mb boyutu geçmemesine 
  özen gösterelim.
  
- Odevin son teslim tarihi 27 Haziran 2022 saat 17:00'a kadardır. 
+ Ödevin son teslim tarihi 27 Haziran 2022 saat 17:00'a kadardır. 
  Daha geç gelen projeler kabul edilmeyecektir.
  
+ Ödevi teslim ederken kendinizi tanıtan (isim, soyisim, numara) bir txt dosyasını bu repo içerisine koymayı unutmayın. 
  
